@@ -1,5 +1,5 @@
 PKG_NAME := zope.schema
-URL = https://files.pythonhosted.org/packages/ea/90/af5656de41667c2c2d0f47680758aaf6fa730d47e7fe6cac5d977d3d9654/zope.schema-4.9.2.tar.gz
+URL = https://files.pythonhosted.org/packages/42/eb/23663ac53661641340f74cb27647f5dcdde63fc4629b4a4c1a0a29c049dc/zope.schema-4.9.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
