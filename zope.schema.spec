@@ -4,7 +4,7 @@
 #
 Name     : zope.schema
 Version  : 4.9.3
-Release  : 26
+Release  : 27
 URL      : https://files.pythonhosted.org/packages/42/eb/23663ac53661641340f74cb27647f5dcdde63fc4629b4a4c1a0a29c049dc/zope.schema-4.9.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/42/eb/23663ac53661641340f74cb27647f5dcdde63fc4629b4a4c1a0a29c049dc/zope.schema-4.9.3.tar.gz
 Summary  : zope.interface extension for defining data schemas
@@ -13,7 +13,6 @@ License  : ZPL-2.1
 Requires: zope.schema-license = %{version}-%{release}
 Requires: zope.schema-python = %{version}-%{release}
 Requires: zope.schema-python3 = %{version}-%{release}
-Requires: Sphinx
 Requires: setuptools
 Requires: zope.event
 Requires: zope.interface
@@ -62,7 +61,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1539371659
+export SOURCE_DATE_EPOCH=1541281708
 python3 setup.py build
 
 %install
