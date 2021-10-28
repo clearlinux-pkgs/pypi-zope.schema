@@ -4,7 +4,7 @@
 #
 Name     : zope.schema
 Version  : 6.2.0
-Release  : 50
+Release  : 51
 URL      : https://files.pythonhosted.org/packages/b3/db/53f1ae9115b357ad012c5297ce9e3597a1608a02bdcc4707718a16060a27/zope.schema-6.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b3/db/53f1ae9115b357ad012c5297ce9e3597a1608a02bdcc4707718a16060a27/zope.schema-6.2.0.tar.gz
 Summary  : zope.interface extension for defining data schemas
