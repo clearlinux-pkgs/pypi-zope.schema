@@ -1,0 +1,4 @@
+6.2.0
+pypi(setuptools)
+pypi(zope.event)
+pypi(zope.interface)
