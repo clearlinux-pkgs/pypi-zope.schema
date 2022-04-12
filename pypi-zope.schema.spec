@@ -4,7 +4,7 @@
 #
 Name     : pypi-zope.schema
 Version  : 6.2.0
-Release  : 55
+Release  : 56
 URL      : https://files.pythonhosted.org/packages/b3/db/53f1ae9115b357ad012c5297ce9e3597a1608a02bdcc4707718a16060a27/zope.schema-6.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b3/db/53f1ae9115b357ad012c5297ce9e3597a1608a02bdcc4707718a16060a27/zope.schema-6.2.0.tar.gz
 Summary  : zope.interface extension for defining data schemas
@@ -66,7 +66,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1641603636
+export SOURCE_DATE_EPOCH=1649801027
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
